@@ -1,90 +1,78 @@
-<!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=9FEF00&size=40&center=true&vCenter=true&width=800&height=100&lines=Jonas+Resch;Cybersecurity+Specialist;Ethical+Hacker;Security+Researcher" />
+  <h1>Jonas Resch</h1>
+  <p><b>Security‑minded CS student</b> focusing on <b>application security</b> and practical <b>pentesting</b>.</p>
+  <p><em>Previously ranked Top 400 on Hack The Box</em></p>
+
+  <!-- Quick badges -->
+  <p>
+    <img alt="HTB Top 400" src="https://img.shields.io/badge/HackTheBox-Top%20400-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=1A1A1A" />
+    <img alt="Focus AppSec" src="https://img.shields.io/badge/Focus-Application%20Security-1A1A1A?style=for-the-badge&labelColor=1A1A1A&color=9FEF00" />
+    <img alt="Location" src="https://img.shields.io/badge/Base-Germany-1A1A1A?style=for-the-badge&labelColor=1A1A1A&color=9FEF00" />
+  </p>
+
+  <!-- Links -->
+  <p>
+    <a href="https://reschj.one" target="_blank">
+      <img alt="Website" src="https://img.shields.io/badge/Website-1A1A1A?style=for-the-badge&logo=About.me&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/jonas-resch-91bba733b" target="_blank">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HackTheBox-Top%20400-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=1A1A1A" />
-  <img src="https://img.shields.io/badge/CTFs%20Completed-100+-9FEF00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkwxOSA5TDEyIDIyTDUgOUwxMiAyWiIgc3Ryb2tlPSIjOUZFRjAwIiBzdHJva2Utd2lkdGg9IjIiIGZpbGw9Im5vbmUiLz48L3N2Zz4=&labelColor=1A1A1A" />
-  <img src="https://img.shields.io/badge/Projects-10+-9FEF00?style=for-the-badge&logo=github&logoColor=9FEF00&labelColor=1A1A1A" />
-</p>
+---
 
-```console
-jonas@terminal:~$ whoami
-```
-```console
-Cybersecurity Specialist and Software Developer from Germany
-Specializing in application security, vulnerability research, and secure software development
-```
+## About
 
-```console
-jonas@terminal:~$ cat skills.txt
-```
-```console
-📊 Technical Arsenal
+- B.Sc. Applied Computer Science (Mittweida), 1st semester; strong interest in IT security
+- I run structured, reproducible security checks and write clear, actionable recommendations
+- I use AI tools to speed up prototyping; my role: define approach, review/test outputs, document results
 
-Programming:
-- Python
-- Bash
-- JavaScript
+## 🎯 Current focus
 
-Security Tools:
-- Hashcat
-- Kali
-- BlackArch
-- Burp Suite
-- Metasploit
-- Wireshark
-- Flipper Zero
+- Secure code review basics (authorization, input validation, data flows)
+- Practical testing of common risks (IDOR/BOLA, injection, SSRF, misconfigurations)
+- Small automation scripts for checks and reporting
 
-Security Skills:
-- Ethical Hacking
-- Penetration Testing
-- Application Security
-- Vulnerability Assessment
-- Quantum-Safe Encryption
-```
+## 🧰 Skills 
 
+- Languages: 
+  
+  <img alt="Python (Basic)" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img alt="Bash (Learning)" src="https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white" />
+  <img alt="Go (learning)" src="https://img.shields.io/badge/Go-(learning)-00ADD8?logo=go&logoColor=white" />
+  <img alt="Rust (learning)" src="https://img.shields.io/badge/Rust-(learning)-000000?logo=rust&logoColor=white" />
+  <img alt="JavaScript (basic)" src="https://img.shields.io/badge/JavaScript-(basic)-F7DF1E?logo=javascript&logoColor=000" />
 
-## 📈 GitHub Stats
+- Security & tooling:
+  > most common tools I use
+  <img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-FF6633?logo=burpsuite&logoColor=white" />
+  <img alt="nmap" src="https://img.shields.io/badge/nmap-4682B4?logo=gnometerminal&logoColor=white" />
+  <img alt="gobuster" src="https://img.shields.io/badge/gobuster-1A1A1A?style=flat&logo=linux&logoColor=white" />
+  <img alt="dirsearch" src="https://img.shields.io/badge/dirsearch-1A1A1A?style=flat&logo=files&logoColor=white" />
+  <img alt="ffuf" src="https://img.shields.io/badge/ffuf-1A1A1A?style=flat&logo=cloudflare&logoColor=white" />
+  <img alt="linPEAS / PEASS‑ng" src="https://img.shields.io/badge/linPEAS%20%2F%20PEASS--ng-1A1A1A?style=flat&logo=linux&logoColor=white" />
+  <img alt="Kali" src="https://img.shields.io/badge/Kali-268BEE?logo=kalilinux&logoColor=white" />
+  <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-1253A4?logo=metasploit&logoColor=white" />
+  <img alt="Hashcat" src="https://img.shields.io/badge/Hashcat-1A1A1A?logoColor=white" />
+  <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reschjonas&theme=gotham&hide_border=true&stroke=0000&background=0D1117&ring=9FEF00&fire=9FEF00&currStreakLabel=9FEF00" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reschjonas&show_icons=true&theme=gotham&hide_border=true&bg_color=0D1117&title_color=9FEF00&icon_color=9FEF00&text_color=FFFFFF" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reschjonas&layout=compact&theme=gotham&hide_border=true&bg_color=0D1117&title_color=9FEF00&text_color=FFFFFF" />
-</div>
+- Practices: pentesting, vulnerability assessment, basic secure coding, clear reporting
 
-<!-- Terminal Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reschjonas&theme=gotham&hide_border=true&bg_color=0D1117&color=9FEF00&line=9FEF00&point=FFFFFF&area=true&area_color=9FEF0020" />
-</div>
+## 🚀 Selected work
 
-## 🔗 Connect With Me
+- <b>EscalateX</b> — Linux privilege escalation scanner (ExploitWorks)  
+  <a href="https://github.com/ExploitWorks/EscalateX">github.com/ExploitWorks/EscalateX</a>
+- <b>DesyncDiver</b> — HTTP Request Smuggling detection (ExploitWorks)  
+  <a href="https://github.com/ExploitWorks/DesyncDiver">github.com/ExploitWorks/DesyncDiver</a>
+- <b>Inscribe</b> — USB imaging for Linux  
+  <a href="https://github.com/reschjonas/Inscribe">github.com/reschjonas/Inscribe</a>
 
-<div align="center">
-  <a href="https://reschj.one" target="_blank">
-    <img src="https://img.shields.io/badge/Website-9FEF00?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://linkedin.com/in/jonas-resch-91bba733b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+## 📫 Contact
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=reschjonas&color=9FEF00&style=for-the-badge" alt="Profile Views" />
-</div>
+- Website: <a href="https://reschj.one" target="_blank">reschj.one</a>  
+- LinkedIn: <a href="https://linkedin.com/in/jonas-resch-91bba733b" target="_blank">jonas-resch-91bba733b</a>
 
-<!-- Easter Egg - Hidden Message -->
-<!-- 
-   ______      __                                              _ __         
-  / ____/_  __/ /_  ___  __________  ___  _____________  __  _(_) /___  __
- / /   / / / / __ \/ _ \/ ___/ ___/ / _ \/ ___/ ___/ _ \/ / / / / __/ / / /
-/ /___/ /_/ / /_/ /  __/ /  (__  ) /  __/ /__/ /  /  __/ /_/ / / /_/ /_/ / 
-\____/\__, /_.___/\___/_/  /____/  \___/\___/_/   \___/\__,_/_/\__/\__, /  
-     /____/                                                        /____/   
-     
-I'm always open to interesting cybersecurity projects and collaborations.
-Let's make the digital world more secure together!
--->
+---
