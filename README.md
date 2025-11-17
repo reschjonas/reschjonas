@@ -1,11 +1,11 @@
 <div align="center">
   <h1>Jonas Resch</h1>
   <p><b>Security‑minded CS student</b> focusing on <b>application security</b> and practical <b>pentesting</b>.</p>
-  <p><em>Previously ranked Top 400 on Hack The Box</em></p>
+  <p><em>Previously ranked Top 200 on Hack The Box</em></p>
 
   <!-- Quick badges -->
   <p>
-    <img alt="HTB Top 400" src="https://img.shields.io/badge/HackTheBox-Top%20400-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=1A1A1A" />
+    <img alt="HTB Top 200" src="https://img.shields.io/badge/HackTheBox-Top%20400-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=1A1A1A" />
     <img alt="Focus AppSec" src="https://img.shields.io/badge/Focus-Application%20Security-1A1A1A?style=for-the-badge&labelColor=1A1A1A&color=9FEF00" />
     <img alt="Location" src="https://img.shields.io/badge/Base-Germany-1A1A1A?style=for-the-badge&labelColor=1A1A1A&color=9FEF00" />
   </p>
