@@ -5,7 +5,7 @@
 
   <!-- Quick badges -->
   <p>
-    <img alt="HTB Top 200" src="https://img.shields.io/badge/HackTheBox-Top%20400-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=1A1A1A" />
+    <img alt="HTB Top 200" src="https://img.shields.io/badge/HackTheBox-Top%20200-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=1A1A1A" />
     <img alt="Focus AppSec" src="https://img.shields.io/badge/Focus-Application%20Security-1A1A1A?style=for-the-badge&labelColor=1A1A1A&color=9FEF00" />
     <img alt="Location" src="https://img.shields.io/badge/Base-Germany-1A1A1A?style=for-the-badge&labelColor=1A1A1A&color=9FEF00" />
   </p>
