@@ -1,77 +1,88 @@
 <div align="center">
-  
-  <!-- Dynamic Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=9FEF00&center=true&vCenter=true&width=500&lines=Jonas+Resch;Security+Researcher;Pentester;CS+Student" alt="Typing SVG" />
-  
-  <p>
-    <b>Security‑minded CS student</b> focusing on <b>application security</b> and practical <b>pentesting</b>.
-  </p>
-  
-  <!-- Key Stats Badges -->
-  <p>
-    <a href="https://app.hackthebox.com/profile/jonas-resch">
-      <img alt="HTB Top 200" src="https://img.shields.io/badge/HackTheBox-Top%20200-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=1A1A1A&labelColor=1A1A1A" />
-    </a>
-    <img alt="Focus AppSec" src="https://img.shields.io/badge/Focus-Application%20Security-1A1A1A?style=for-the-badge&labelColor=1A1A1A&color=9FEF00" />
-    <img alt="Location" src="https://img.shields.io/badge/Base-Germany-1A1A1A?style=for-the-badge&labelColor=1A1A1A&color=9FEF00" />
-  </p>
 
-  <br />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=220&section=header&text=Jonas%20Resch&fontSize=42&fontColor=9FEF00&fontAlignY=34&desc=Security%20Researcher%20%C2%B7%20Pentester%20%C2%B7%20CS%20Student&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
-  <!-- GitHub Stats (Dynamic) -->
-  <a href="https://github.com/reschjonas">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=reschjonas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9FEF00&icon_color=9FEF00" />
-  </a>
-  <a href="https://github.com/reschjonas">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reschjonas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9FEF00" />
-  </a>
+I break things to understand how they work, then build tools to automate the process.<br>
+Focused on <b>application security</b>, <b>offensive tooling</b>, and <b>CTFs</b>.
+
+<br>
+
+<a href="https://app.hackthebox.com/profile/jonas-resch">
+  <img src="https://img.shields.io/badge/HackTheBox-Top%20200-9FEF00?style=flat-square&logo=hackthebox&logoColor=9FEF00&labelColor=111927" />
+</a>
+<img src="https://img.shields.io/badge/Focus-AppSec-9FEF00?style=flat-square&labelColor=111927" />
+<img src="https://img.shields.io/badge/Based%20in-Germany-9FEF00?style=flat-square&labelColor=111927" />
 
 </div>
 
-<br />
+<br>
 
-## ⚡ About Me
+## Projects
 
-I am a **B.Sc. Applied Computer Science** student at Mittweida (1st semester) with a strong passion for **IT Security**. My workflow involves running structured, reproducible security checks and translating findings into clear, actionable recommendations.
+> **[EscalateX](https://github.com/ExploitWorks/EscalateX)** -- Linux privilege escalation scanner. Enumerates misconfigurations, SUID binaries, kernel CVEs, credentials, and more. Compiles into a single portable script for target deployment.
+> `Bash` `Linux` `Privilege Escalation`
 
-- 🔭 I’m currently working on **Secure Code Review** & **Automated Pentesting Tools**.
-- 🛡️ I specialize in **Web Application Security** (IDOR, Injection, SSRF).
-- 🤖 I leverage **AI tools** to speed up prototyping and documentation.
+> **[DesyncDiver](https://github.com/ExploitWorks/DesyncDiver)** -- HTTP request smuggling detection. Identifies CL.TE, TE.CL, and TE.TE desync vulnerabilities in web servers and reverse proxies.
+> `Go` `HTTP` `Web Security`
 
----
+> **[Inscribe](https://github.com/reschjonas/Inscribe)** -- USB imaging utility for Linux. Handles bootable drive creation and disk image management with a clean interface.
+> `Rust` `Linux` `Systems`
 
-## 🛠️ The Arsenal
+> **[HTTPipe](https://github.com/reschjonas/HTTPipe)** -- Single-file HTTP server for getting tools onto target machines fast during CTFs and pentests. GUI and headless CLI.
+> `Python` `Networking` `CTF`
+
+<br>
+
+## Toolbox
+
+<p>
+  <b>Languages</b><br>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=DEA584" />
+  <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
+
+<p>
+  <b>Security</b><br>
+  <img src="https://img.shields.io/badge/Burp%20Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633" />
+  <img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=2596CD" />
+  <img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7" />
+  <img src="https://img.shields.io/badge/Hashcat-0d1117?style=for-the-badge&logo=hashcat&logoColor=white" />
+</p>
+
+<p>
+  <b>Environment</b><br>
+  <img src="https://img.shields.io/badge/Kali%20Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=557C94" />
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
+</p>
+
+<br>
 
 <div align="center">
 
-| **Languages** | **Security Operations** | **Infrastructure & Tools** |
-| :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /><br/><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /><br/><img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /><br/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" /><br/><img src="https://img.shields.io/badge/Metasploit-1253A4?style=for-the-badge&logo=metasploit&logoColor=white" /><br/><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /><br/><img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" /><br/><img src="https://img.shields.io/badge/Hashcat-1A1A1A?style=for-the-badge&logo=hashcat&logoColor=white" /> | <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalislinux&logoColor=white" /><br/><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=reschjonas&bg_color=0d1117&color=9FEF00&line=9FEF00&point=ffffff&area=true&area_color=9FEF00&hide_border=true" width="97%" />
 
-</div>
+<br>
 
----
+<a href="https://reschj.one">
+  <img src="https://img.shields.io/badge/reschj.one-0d1117?style=for-the-badge&logo=googlechrome&logoColor=9FEF00" />
+</a>
+<a href="https://linkedin.com/in/jonas-resch-91bba733b">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="mailto:contact@reschj.one">
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
 
-## 🚀 Selected Work
+<br><br>
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| <a href="https://github.com/ExploitWorks/EscalateX"><b>EscalateX</b></a> | **Linux Privilege Escalation Scanner**<br>Automates the detection of common misconfigurations and privilege escalation vectors on Linux systems. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white) |
-| <a href="https://github.com/ExploitWorks/DesyncDiver"><b>DesyncDiver</b></a> | **HTTP Request Smuggling Detection**<br>A specialized tool to identify and exploit HTTP request smuggling vulnerabilities in modern web servers. | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![HTTP](https://img.shields.io/badge/HTTP-005C9C?style=flat-square&logo=internetexplorer&logoColor=white) |
-| <a href="https://github.com/reschjonas/Inscribe"><b>Inscribe</b></a> | **USB Imaging for Linux**<br>A robust utility for creating bootable USB drives and managing disk images on Linux environments. | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+<sub>B.Sc. Applied Computer Science, Mittweida</sub>
 
----
-
-<div align="center">
-  
-  <a href="https://reschj.one" target="_blank">
-    <img src="https://img.shields.io/badge/Website-reschj.one-1A1A1A?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/jonas-resch-91bba733b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Jonas%20Resch-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:contact@reschj.one">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer" width="100%" />
 
 </div>
