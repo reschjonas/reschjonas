@@ -12,6 +12,7 @@ Focused on <b>application security</b>, <b>offensive tooling</b>, and <b>CTFs</b
 </a>
 <img src="https://img.shields.io/badge/Focus-AppSec-9FEF00?style=flat-square&labelColor=111927" />
 <img src="https://img.shields.io/badge/Based%20in-Germany-9FEF00?style=flat-square&labelColor=111927" />
+<img src="https://komarev.com/ghpvc/?username=reschjonas&style=flat-square&color=111927&label=Profile+Views&labelColor=111927" />
 
 </div>
 
@@ -72,10 +73,10 @@ Focused on <b>application security</b>, <b>offensive tooling</b>, and <b>CTFs</b
 <a href="https://reschj.one">
   <img src="https://img.shields.io/badge/reschj.one-0d1117?style=for-the-badge&logo=googlechrome&logoColor=9FEF00" />
 </a>
-<a href="https://linkedin.com/in/jonas-resch-91bba733b">
+<a href="https://linkedin.com/in/reschjonas">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
-<a href="mailto:contact@reschj.one">
+<a href="mailto:resch.jonas@pm.me">
   <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
