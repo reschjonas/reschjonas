@@ -1,86 +1,71 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=220&section=header&text=Jonas%20Resch&fontSize=42&fontColor=9FEF00&fontAlignY=34&desc=Security%20Researcher%20%C2%B7%20Pentester%20%C2%B7%20CS%20Student&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=220&section=header&text=Jonas%20Resch&fontSize=42&fontColor=9FEF00&fontAlignY=38&animation=fadeIn" width="100%" />
 
-I break things to understand how they work, then build tools to automate the process.<br>
-Focused on <b>application security</b>, <b>offensive tooling</b>, and <b>CTFs</b>.
+<a href="https://github.com/reschjonas">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=9FEF00&center=true&vCenter=true&repeat=true&width=460&height=45&lines=Security+Researcher;Pentester;Tool+Builder;CS+Student" alt="Typing SVG" />
+</a>
 
-<br>
+I break things to understand how they work, then build tools to automate the process.
 
 <a href="https://app.hackthebox.com/profile/jonas-resch">
   <img src="https://img.shields.io/badge/HackTheBox-Top%20200-9FEF00?style=flat-square&logo=hackthebox&logoColor=9FEF00&labelColor=111927" />
 </a>
 <img src="https://img.shields.io/badge/Focus-AppSec-9FEF00?style=flat-square&labelColor=111927" />
 <img src="https://img.shields.io/badge/Based%20in-Germany-9FEF00?style=flat-square&labelColor=111927" />
-<img src="https://komarev.com/ghpvc/?username=reschjonas&style=flat-square&color=111927&label=Profile+Views&labelColor=111927" />
 
 </div>
 
-<br>
+---
 
 ## Projects
 
-> **[EscalateX](https://github.com/ExploitWorks/EscalateX)** -- Linux privilege escalation scanner. Enumerates misconfigurations, SUID binaries, kernel CVEs, credentials, and more. Compiles into a single portable script for target deployment.
-> `Bash` `Linux` `Privilege Escalation`
+> **[FlipperZero BadUSB](https://github.com/reschjonas/FlipperZero_BadUSB)**&ensp;![stars](https://img.shields.io/github/stars/reschjonas/FlipperZero_BadUSB?style=flat-square&color=9FEF00&labelColor=0d1117)
+>
+> Next-generation modular payload system for Flipper Zero. Advanced DuckyScript payloads with remote module loading for flexible, reusable attack chains.
+>
+> `Python` `PowerShell` `Flipper Zero` `Pentesting`
 
-> **[DesyncDiver](https://github.com/ExploitWorks/DesyncDiver)** -- HTTP request smuggling detection. Identifies CL.TE, TE.CL, and TE.TE desync vulnerabilities in web servers and reverse proxies.
-> `Go` `HTTP` `Web Security`
+> **[leaktor](https://github.com/reschjonas/leaktor)**&ensp;![stars](https://img.shields.io/github/stars/reschjonas/leaktor?style=flat-square&color=9FEF00&labelColor=0d1117)
+>
+> Secrets scanner built for speed. Combines pattern matching, entropy analysis, and live validation to catch leaked credentials before they hit production.
+>
+> `Rust` `CLI` `DevSecOps`
 
-> **[Inscribe](https://github.com/reschjonas/Inscribe)** -- USB imaging utility for Linux. Handles bootable drive creation and disk image management with a clean interface.
-> `Rust` `Linux` `Systems`
+> **[Inscribe](https://github.com/reschjonas/Inscribe)**&ensp;![stars](https://img.shields.io/github/stars/reschjonas/Inscribe?style=flat-square&color=9FEF00&labelColor=0d1117)
+>
+> Fast, elegant USB imaging for Linux. A modern, open-source alternative to balenaEtcher with a clean UI, clear progress, and power-user controls.
+>
+> `TypeScript` `Rust` `React` `Linux`
 
-> **[HTTPipe](https://github.com/reschjonas/HTTPipe)** -- Single-file HTTP server for getting tools onto target machines fast during CTFs and pentests. GUI and headless CLI.
-> `Python` `Networking` `CTF`
+> **[CVE-2026-24135](https://github.com/reschjonas/CVE-2026-24135)**&ensp;![cve](https://img.shields.io/badge/CVE-2026--24135-9FEF00?style=flat-square&labelColor=0d1117)
+>
+> Arbitrary File Deletion in Gogs via Wiki Path Traversal. Discovered and responsibly disclosed.
+>
+> `Web Security` `Path Traversal` `Research`
 
-<br>
+---
 
 ## Toolbox
 
-<p>
-  <b>Languages</b><br>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8" />
-  <img src="https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=DEA584" />
-  <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</p>
+**Languages**&ensp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff" /> <img src="https://img.shields.io/badge/Rust-B7410E?style=flat-square&logo=rust&logoColor=fff" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=fff" />
 
-<p>
-  <b>Security</b><br>
-  <img src="https://img.shields.io/badge/Burp%20Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633" />
-  <img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=2596CD" />
-  <img src="https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7" />
-  <img src="https://img.shields.io/badge/Hashcat-0d1117?style=for-the-badge&logo=hashcat&logoColor=white" />
-</p>
+**Security**&ensp;
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=fff" /> <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=fff" /> <img src="https://img.shields.io/badge/Nmap-4B275F?style=flat-square&logo=nmap&logoColor=fff" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=fff" /> <img src="https://img.shields.io/badge/Hashcat-3E3E41?style=flat-square&logo=hashcat&logoColor=fff" />
 
-<p>
-  <b>Environment</b><br>
-  <img src="https://img.shields.io/badge/Kali%20Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=557C94" />
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
-</p>
+**Environment**&ensp;
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=fff" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000" />
 
-<br>
+---
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=reschjonas&bg_color=0d1117&color=9FEF00&line=9FEF00&point=ffffff&area=true&area_color=9FEF00&hide_border=true" width="97%" />
 
-<br>
-
-<a href="https://reschj.one">
-  <img src="https://img.shields.io/badge/reschj.one-0d1117?style=for-the-badge&logo=googlechrome&logoColor=9FEF00" />
-</a>
-<a href="https://linkedin.com/in/reschjonas">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-<a href="mailto:resch.jonas@pm.me">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-
 <br><br>
+
+**[reschj.one](https://reschj.one)**&ensp;&middot;&ensp;**[LinkedIn](https://linkedin.com/in/reschjonas)**&ensp;&middot;&ensp;**[Medium](https://medium.com/@reschjonas)**&ensp;&middot;&ensp;**[Email](mailto:resch.jonas@pm.me)**
 
 <sub>B.Sc. Applied Computer Science, Mittweida</sub>
 
