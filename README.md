@@ -20,24 +20,6 @@ I break things to understand how they work, then build tools to automate the pro
 
 ## Projects
 
-> **[FlipperZero BadUSB](https://github.com/reschjonas/FlipperZero_BadUSB)**&ensp;![stars](https://img.shields.io/github/stars/reschjonas/FlipperZero_BadUSB?style=flat-square&color=9FEF00&labelColor=0d1117)
->
-> Next-generation modular payload system for Flipper Zero. Advanced DuckyScript payloads with remote module loading for flexible, reusable attack chains.
->
-> `Python` `PowerShell` `Flipper Zero` `Pentesting`
-
-> **[leaktor](https://github.com/reschjonas/leaktor)**&ensp;![stars](https://img.shields.io/github/stars/reschjonas/leaktor?style=flat-square&color=9FEF00&labelColor=0d1117)
->
-> Secrets scanner built for speed. Combines pattern matching, entropy analysis, and live validation to catch leaked credentials before they hit production.
->
-> `Rust` `CLI` `DevSecOps`
-
-> **[Inscribe](https://github.com/reschjonas/Inscribe)**&ensp;![stars](https://img.shields.io/github/stars/reschjonas/Inscribe?style=flat-square&color=9FEF00&labelColor=0d1117)
->
-> Fast, elegant USB imaging for Linux. A modern, open-source alternative to balenaEtcher with a clean UI, clear progress, and power-user controls.
->
-> `TypeScript` `Rust` `React` `Linux`
-
 > **[CVE-2026-24135](https://github.com/reschjonas/CVE-2026-24135)**&ensp;![cve](https://img.shields.io/badge/CVE-2026--24135-9FEF00?style=flat-square&labelColor=0d1117)
 >
 > Arbitrary File Deletion in Gogs via Wiki Path Traversal. Discovered and responsibly disclosed.
